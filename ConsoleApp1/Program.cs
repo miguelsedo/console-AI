@@ -8,7 +8,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        string apiKey = "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";
+        string apiKey = "_-_-_-_-_-_secretapi_-_-_-_-_-_";
         string apiUrl = "https://api.openai.com/v1/chat/completions";
 
         bool chatting = true;
